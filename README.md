@@ -1,5 +1,4 @@
-# HEKR-ANDROID-SDK
-氦氪HEKR安卓SDK
+HEKR-ANDROID-APP-V1.0 
 
 项目用IntelliJ IDEA编写，Gradle构建
 
